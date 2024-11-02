@@ -1,4 +1,4 @@
 # Chomu-Properties
 A real state website
 <br>
-Developer: Himanshukalika
+Developer: Himanshukalika(Developer)
